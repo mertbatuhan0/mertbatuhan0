@@ -38,22 +38,6 @@ Backend project built with FastAPI.
 * Clean Project Structure
 * Swagger Documentation
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mertbatuhan0&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertbatuhan0&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mertbatuhan0&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
