@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,html,css,js,mysql,git,github,vscode,pycharm&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,html,css,java,mysql,git,github,vscode,pycharm" />
 </p>
 
 ---
