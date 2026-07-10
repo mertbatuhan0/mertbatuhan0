@@ -26,7 +26,7 @@
 
 ## 📂 Current Projects
 
-### 📚 StudyFlow API
+### 📚 Expense-Tracker
 
 Backend project built with FastAPI.
 
