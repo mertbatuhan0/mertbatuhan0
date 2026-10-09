@@ -30,7 +30,7 @@ Building APIs and backend systems with Python, FastAPI, Java, and SQL.
 
 **Languages & backend**
 
-<img src="https://skillicons.dev/icons?i=python,java,fastapi,postgres,docker,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=python,java,fastapi,postgres,docker,git,github" />
 
 <br/>
 
@@ -60,24 +60,8 @@ Building APIs and backend systems with Python, FastAPI, Java, and SQL.
 | --- | --- |
 | [Expense-Tracker](https://github.com/mertbatuhan0/Expense-Tracker) | REST API for personal expenses · FastAPI, PostgreSQL, JWT, Docker |
 | [master-shop-system](https://github.com/mertbatuhan0/master-shop-system) | Retail simulation in Python · inheritance, encapsulation, OOP |
-| [ToDo-App](https://github.com/mertbatuhan0/ToDo-App) | Terminal to-do app with validation and error handling |
-
----
-
-### GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mertbatuhan0&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertbatuhan0&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 
 <br/>
-
-<img src="https://streak-stats.demolab.com?user=mertbatuhan0&theme=transparent&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mertbatuhan0&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" />
-
-</div>
 
 ---
 
