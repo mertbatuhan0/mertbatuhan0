@@ -28,7 +28,7 @@ Building APIs and backend systems with Python, FastAPI, Django, Java, and SQL.
 
 **Languages & backend**
 
-<img src="https://skillicons.dev/icons?i=python,java,fastapi,postgres,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=python,java,fastapi,postgres,docker,git,github,django" />
 
 <br/>
 
