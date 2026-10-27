@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Batuhan;Backend+Developer;Python+%7C+FastAPI+%7C+Django" alt="Typing SVG" />
 
 **Computer Science student in Warsaw**  
-Building APIs and backend systems with Python, FastAPI, Django, Java, and SQL.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batuhan-mert-elma-60a9a9363)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batuhanmertelma20@gmail.com)
