@@ -46,13 +46,6 @@
 
 ### Featured projects
 
-<div align="center">
-
-[![Expense-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=mertbatuhan0&repo=Expense-Tracker&theme=transparent&hide_border=true)](https://github.com/mertbatuhan0/Expense-Tracker)
-[![master-shop-system](https://github-readme-stats.vercel.app/api/pin/?username=mertbatuhan0&repo=master-shop-system&theme=transparent&hide_border=true)](https://github.com/mertbatuhan0/master-shop-system)
-
-</div>
-
 | 📦 Project | 📝 What it is |
 | --- | --- |
 | [Expense-Tracker](https://github.com/mertbatuhan0/Expense-Tracker) | REST API for personal expenses · FastAPI, PostgreSQL, JWT, Docker |
