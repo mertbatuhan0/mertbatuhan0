@@ -1,63 +1,58 @@
-<div align="center">
-  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Batuhan;Backend+Developer;Python+%7C+FastAPI" alt="Typing SVG" />
+<p align="center">
+  <img src="assets/header.png" alt="Batuhan Mert Elma, computer science student in Warsaw. APIs with an owner, a schema, and a test." width="100%" />
+</p>
 
-**Computer Science student in Warsaw**  
+Computer science student in Warsaw. I build backend services in Python: sign-in, records that belong to one person, and tests that keep that boundary intact.
 
+Open to internships and junior backend roles.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batuhan-mert-elma-60a9a9363)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batuhanmertelma20@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mertbatuhan0)
+[LinkedIn](https://www.linkedin.com/in/batuhan-mert-elma-60a9a9363) · [Email](mailto:batuhanmertelma20@gmail.com) · [GitHub](https://github.com/mertbatuhan0)
 
-</div>
+## Selected work
 
----
+### 01 · Expense Tracker
 
-### About me
+REST API for personal expenses. A person registers, receives a short-lived JWT, and manages only their own records. Listing supports title search, an amount range, and pagination.
 
-- 🎓 CS student focused on **backend development**
-- 🛠️ Currently building REST APIs with FastAPI, PostgreSQL, JWT, Docker
-- 🧩 Practicing OOP, clean architecture, and testing
-- 📍 Warsaw, Poland
+PostgreSQL 16, SQLAlchemy, Alembic, Docker Compose, and pytest for the auth and expense paths.
 
----
+[Repository](https://github.com/mertbatuhan0/Expense-Tracker)
 
-### Tech stack
+### 02 · Northline Desk
 
-<div align="center">
+A dispatch board for a city that fits on one screen. Incidents, weather, blocked streets, and the station clock enter a local priority queue. Six handlers assign units, raise calls that wait, move crews, and write the radio log.
 
-**Languages & backend**
+The queue stays on the machine: in the browser tab, and in one Node process. Next.js on the surface, the same engine underneath.
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,github" />
+[Repository](https://github.com/mertbatuhan0/northline-desk-)
 
-<br/>
+### 03 · Master Shop
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+A retail simulation in Python. A `Product` base, an `Electronic` subclass, and associations between shop, catalog, and customer. Cart and checkout sit on the objects.
 
+[Repository](https://github.com/mertbatuhan0/master-shop-system)
 
-</div>
+## Working rules
 
----
+- A record has an owner, and every query respects that.
+- The project starts with one command.
+- A broken rule should fail a test.
 
-### Featured projects
+## Stack
 
-| 📦 Project | 📝 What it is |
+| | |
 | --- | --- |
-| [Expense-Tracker](https://github.com/mertbatuhan0/Expense-Tracker) | REST API for personal expenses · FastAPI, PostgreSQL, JWT, Docker |
-| [master-shop-system](https://github.com/mertbatuhan0/master-shop-system) | Retail simulation in Python · inheritance, encapsulation, OOP |
+| Language | Python, TypeScript |
+| Services | FastAPI, Pydantic, Uvicorn |
+| Data | PostgreSQL, SQLAlchemy, Alembic, SQL |
+| Assurance | pytest, JWT, bcrypt |
+| Delivery | Docker, Git |
+| Interface | Next.js, React |
 
-<br/>
+## Also on GitHub
+
+Smaller studies in the same direction: a [library model](https://github.com/mertbatuhan0/library-management), a [to-do list](https://github.com/mertbatuhan0/ToDo-App) with explicit error handling, a [PokéAPI client](https://github.com/mertbatuhan0/pokemon-client), and a [book factory](https://github.com/mertbatuhan0/book-factory).
 
 ---
 
-<div align="center">
-
-💡 Open to internships, junior backend roles, and collaboration
-
-</div>
-
-
+Warsaw, Poland
